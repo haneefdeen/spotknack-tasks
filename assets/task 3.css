@@ -3,8 +3,9 @@ body{
     background-color: bisque;
 }
 table,th,td{
-    border: 1px solid;
-    width: 50%;
+    
+    border: 2px solid;
+    width: 40%;
     text-align: center;
     border-color: blue;
     
